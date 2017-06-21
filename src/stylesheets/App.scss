@@ -1,0 +1,39 @@
+/* YOUR STYLING HERE */
+answer {
+  display: hidden;
+}
+body {
+  background-color: #E5F3F4;
+  color: #777777;
+  font-family: 'Varela Round', sans-serif;
+
+}
+
+center {
+  font-size: 40px;
+  color: #37BECC;
+  font-weight: bold;
+}
+
+button {
+  background-color: #1c2224;
+  color: #FFFFFF;
+  box-shadow: 2px 2px 2px #1c2224;
+  height: 20px;
+  width:20px;
+  margin-left: 15px;
+}
+
+.line-separator {
+  height:1px;
+  background:#717171;
+  border-bottom:1px solid #313030;
+  margin: 0 25px;
+}
+
+.green{
+  background-color: $green;
+}
+.black {
+  background-color: $black;
+}
